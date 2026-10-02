@@ -1,1 +1,1 @@
-# Yu-Gi-Oh-json
+# Yu-Gi-Oh
